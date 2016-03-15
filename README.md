@@ -12,7 +12,7 @@ address, [New York Times](http://www.nytimes.com/) articles relating to the area
 * JavaScript
 * JSON
 * Google Maps API
-* NeW York Times API
+* New York Times API
 * Wikipedia API
 
 ###Demo:
