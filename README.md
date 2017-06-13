@@ -1,4 +1,4 @@
-#Move Planner App
+# Move Planner App
 
 This is a project for Udacity which utilizes AJAX, and API's, to create a move planner. A
 user can enter anaddress and see the
@@ -6,7 +6,7 @@ user can enter anaddress and see the
 address, [New York Times](http://www.nytimes.com/) articles relating to the area, and
 [Wikipedia](https://www.wikipedia.org/) information relevant to their search.
 
-###Technologies Used:
+### Technologies Used:
 * HTML
 * CSS
 * JavaScript
@@ -15,7 +15,7 @@ address, [New York Times](http://www.nytimes.com/) articles relating to the area
 * New York Times API
 * Wikipedia API
 
-###Demo:
+### Demo:
 
 You can try out this application by clicking [**here**](http://samurairanderson.github.io/Move-Planner-App)!
 
